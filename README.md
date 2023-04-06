@@ -1,7 +1,11 @@
 # Hotel-Revenue-Analysis
+
 Stakeholder questions:
+
 Q1. Is our hotel revenue growing year by year?
+
 Q2. Should we increase parking lot size?
+
 Q3. What trends can we see in the data?
 
 
