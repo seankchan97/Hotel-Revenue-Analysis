@@ -27,3 +27,5 @@ Key points of visualiztion, stakeholders will need the following to answer the p
 -total nights stayed
 -average discount 
 -car spaces
+
+[Hotel Revenue Analysis.pdf](https://github.com/seankchan97/Hotel-Revenue-Analysis/files/11173384/Hotel.Revenue.Analysis.pdf)
