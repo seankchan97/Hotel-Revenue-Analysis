@@ -37,4 +37,4 @@ on hotels.market_segment = market_segment$.market_segment
 left join dbo.meal_cost$
 on meal_cost$.meal = hotels.meal
 
-/* now that I have created the neccesarry table for analysis, the database will be connected to microsoft BI*/
+/* now that I have created the neccesarry table for analysis, the database will be connected to microsoft BI/move forward with visualization*/
